@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/people_item"
+            android:icon="@drawable/ic_people"
+            android:title="@string/search_by_people" />
+    </group>
+
+    <item
+        android:id="@+id/logout_item"
+        android:icon="@drawable/ic_exit"
+        android:title="@string/logout" />
+
+</menu>

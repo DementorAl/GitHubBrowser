@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">GitHubBrowse</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <integer name="com_vk_sdk_AppId">6444755</integer>
+    <string name="facebook_app_id">1792274124415009</string>
+    <string name="fb_login_protocol_scheme">fb1792274124415009</string>
+
+    <string name="search_by_people">Search by people</string>
+    <string name="logout">Change user</string>
+    <string name="activity_login_title">Sign In</string>
+    <string name="unknown">Unknown</string>
+    <string name="id_placeholder">ID: %s</string>
+    <string name="search_by_name">Search by nickname</string>
+    <string name="logout_dialog_title">Are you sure you want to leave this account?</string>
+    <string name="yes">Yes</string>
+    <string name="no" />
+    <string name="log_out">Log Out</string>
+    <string name="sign_in_with">Sign In with:</string>
+    <string name="facebook">Facebook</string>
+    <string name="vk_full_name">VKontakte</string>
+    <string name="google">Google</string>
+
+
+</resources>
